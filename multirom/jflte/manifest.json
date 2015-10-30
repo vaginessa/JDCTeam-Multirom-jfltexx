@@ -8,14 +8,14 @@
 			{"files":
 				[
 					{
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/multirom/jflte/multirom-20151029-v32b-UNOFFICIAL-jflte.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/multirom/jflte/multirom-20151029-v32b-UNOFFICIAL-jflte.zip",
 						"version": "32b",
 						"type": "multirom",
 						"size": 3997652,
 						"md5": "56b309d5d6c27a4cfb33fa0ebb153043"
 					},
 					{
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/multirom/jflte/TWRP_multirom_jflte_20151029-00.img",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/multirom/jflte/TWRP_multirom_jflte_20151029-00.img",
 						"version": "mrom20151029-00",
 						"type": "recovery",
 						"size": 8419328,
@@ -23,7 +23,7 @@
 					},
 					{
 						"extra": {"releases":["5.1.x"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.3ba-NEW5.1.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V1.3ba-NEW5.1.zip",
 						"version": "Alucard CM12.1-based",
 						"md5": "8a0958a11af9ebbdc1dc46c1f5b311b7",
 						"type": "kernel",
@@ -31,7 +31,7 @@
 					},
 					{
 						"extra": {"releases":["5.0.x"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.1a-5.0.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V1.1a-5.0.zip",
 						"version": "Alucard CM12-based",
 						"md5": "26da9b6909f9f1ad994512b1b41d8fab",
 						"type": "kernel",
@@ -39,7 +39,7 @@
 					},
 					{
 						"extra": {"releases":["5.0.x"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.1a-GE5.0.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V1.1a-GE5.0.zip",
 						"version": "Alucard GPE 5.0",
 						"md5": "d63a46e4661607f4249c12a2c9d59c4f",
 						"type": "kernel",
@@ -47,7 +47,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.x"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V1.4r-NEW4.4.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V1.4r-NEW4.4.zip",
 						"version": "Alucard CM11-based after 8/6/2014",
 						"md5": "78dedffd8d70bab721b8011aabed27a7",
 						"type": "kernel",
@@ -55,7 +55,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V2.7.2a-4.4.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V2.7.2a-4.4.zip",
 						"version": "Alucard CM11-based up to 8/5/2014",
 						"md5": "bbbee2a886f0e7ffd35efe2541411325",
 						"type": "kernel",
@@ -63,7 +63,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V2.4d-GE4.4.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V2.4d-GE4.4.zip",
 						"version": "Alucard GPE 4.4",
 						"md5": "40433965298c861fd45ee413a06caae2",
 						"type": "kernel",
@@ -71,7 +71,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.2"]},
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/alucard/Kernel-Alucard-V2.3ga-TW4.4.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/alucard/Kernel-Alucard-V2.3ga-TW4.4.zip",
 						"version": "Alucard TouchWiz 4.4.2",
 						"md5": "226b2924cd5be721a8b859a3d74c3863",
 						"type": "kernel",
@@ -182,7 +182,7 @@
 						"size": 15773124
 					},
 					{
-						"url": "https://raw.githubusercontent.com/AntaresOne/antaresone.github.io/master/multirom/jflte/multirom_uninstaller.zip",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/multirom/jflte/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1633297,
@@ -192,11 +192,11 @@
 			"changelogs":
 				[
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/changelogs/changelog_multirom.txt",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/multirom/jflte/changelogs/changelog_multirom.txt",
 						"name": "MultiROM"
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/changelogs/changelog_recovery.txt",
+						"url": "https://raw.githubusercontent.com/JDCTeam/MultiROM-release/master/multirom/jflte/changelogs/changelog_recovery.txt",
 						"name": "Recovery"
 					}
 				],
